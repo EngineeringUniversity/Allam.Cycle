@@ -13,4 +13,5 @@ https://share.google/aimode/0ZTo4KfYebb1vPzGw
 - https://www.sciencedirect.com/science/article/am/pii/S0306261918315137
 - https://www.researchgate.net/publication/319196020_Demonstration_of_the_Allam_Cycle_An_Update_on_the_Development_Status_of_a_High_Efficiency_Supercritical_Carbon_Dioxide_Power_Process_Employing_Full_Carbon_Capture
 - [Feasibility Study of the CO2 Regenerator Parameters for Oxy-Fuel Combustion Power Cycle](https://www.mdpi.com/2411-5134/7/3/66)
-- 
+- [Exergy analysis of the Allam cycle: Assessing the impact of regenerator performance on the cycle efficiency](https://www.sciencedirect.com/science/article/abs/pii/S0196890425008829)
+- [
