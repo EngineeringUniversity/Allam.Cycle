@@ -13,4 +13,6 @@ https://share.google/aimode/fCHTuVf8xQ8vEeTwj
 - https://www.frontiersin.org/research-topics/75623/advancing-the-allam-cycle-for-carbon-neutral-synthetic-fuels
 - https://www.petro-online.com/article/measurement-and-testing/14/sbh4-gmbh/the-allam-cycle-clean-power-from-natural-gas-with-integrated-carbon-capture/3290
 - [Thermodynamic analysis of the biomass gasification Allam cycle](https://www.sciencedirect.com/science/article/abs/pii/S0016236123013947)
-- 
+- [Allam cycle: Review of research and development](https://www.sciencedirect.com/science/article/abs/pii/S0196890423009536)
+- [AFC-Carbon by 8 Rivers: Ultra-low-emissions power cycle](https://youtu.be/msPEpN3nM9E)
+- [AFC-Biome by 8 Rivers: Carbon-negative biomass-to-power power cycle](https://youtu.be/RNHpbbHOJ_0)
