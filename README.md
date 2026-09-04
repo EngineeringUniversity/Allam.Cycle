@@ -9,4 +9,7 @@ https://share.google/aimode/2YJdAzJpJEC5U9m1C
 query: differences between traditional CCGT and the Allam cycle
 https://share.google/aimode/dHEuTi2WMaBOIHTwm
 
+query: mechanical design of the supercritical CO₂ turbines?
+https://share.google/aimode/dCOeHwDEbpFzLBAZV
+
 query: 
