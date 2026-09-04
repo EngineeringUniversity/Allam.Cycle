@@ -15,4 +15,5 @@ https://share.google/aimode/dCOeHwDEbpFzLBAZV
 query: metallurgy/superalloys used to survive this environment?
 https://share.google/aimode/Lj3mFiIHLnQGgYHaQ
 
-query: 
+query: recuperator heat exchangers?
+https://share.google/aimode/0ZTo4KfYebb1vPzGw
