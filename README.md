@@ -12,4 +12,7 @@ https://share.google/aimode/dHEuTi2WMaBOIHTwm
 query: mechanical design of the supercritical CO₂ turbines?
 https://share.google/aimode/dCOeHwDEbpFzLBAZV
 
+query: metallurgy/superalloys used to survive this environment?
+https://share.google/aimode/Lj3mFiIHLnQGgYHaQ
+
 query: 
