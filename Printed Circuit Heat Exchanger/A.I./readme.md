@@ -11,4 +11,6 @@ https://share.google/aimode/0ZTo4KfYebb1vPzGw
 - https://www.alfalaval.co.uk/products/heat-transfer/plate-heat-exchangers/printed-circuit-heat-exchangers/printed-circuit-heat-exchangers/
 - https://www.researchgate.net/publication/267499769_Design_and_Development_of_a_Low-Cost_High_Temperature_Silicon_Carbide_Micro-Channel_Recuperator
 - https://www.sciencedirect.com/science/article/am/pii/S0306261918315137
+- https://www.researchgate.net/publication/319196020_Demonstration_of_the_Allam_Cycle_An_Update_on_the_Development_Status_of_a_High_Efficiency_Supercritical_Carbon_Dioxide_Power_Process_Employing_Full_Carbon_Capture
+- [Feasibility Study of the CO2 Regenerator Parameters for Oxy-Fuel Combustion Power Cycle](https://www.mdpi.com/2411-5134/7/3/66)
 - 
